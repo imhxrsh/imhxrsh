@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter & Django**
 
-- 💬 Ask me about **bootstrap, tailwind, css**
+- 💬 Ask me about **Bootstrap, Tailwind**
 
 - 📫 How to reach me **itsmehxrsh@gmail.com**
 
