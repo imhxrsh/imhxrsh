@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Vishwakarma</h1>
-<h3 align="center">A passionate frontend developer from India. I am a Continuous learner and problem solver!</h3>
+<h3 align="center">A passionate frontend developer from India. Keen learner and problem solver!</h3>
 
 
 
